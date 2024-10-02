@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+figure{
+    img{
+        width: 650px;
+    }
+}
+section{
+    color: aliceblue;
+    border: solid 2px black; 
+    width: 700px;
+    height: 300px;
+    background-image:url("./assets/METEflix.jpeg") ;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-size: contain;
+}
